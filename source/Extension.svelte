@@ -57,7 +57,6 @@
 		return 'icons/puzzle.svg';
 	}
 </script>
-
 <li class:disabled={!enabled} class="ext type-{installType}">
 	<button
 		type="button"
